@@ -100,4 +100,8 @@ This is the actual course challenge project. This is a Quiz app. It presents you
 - Card View
 
 
+
+
+
+
 _Thanks for your time!_
