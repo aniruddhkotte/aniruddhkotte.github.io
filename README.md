@@ -16,9 +16,10 @@ Topics I have learnt:
 - How the views and layouts work
 - ImageView
 - TextView
+
 _Here, let's take a look at how finally the app looked like._
 
-![HappyBirthday](aniruddhkotte.github.io/HappyBirthday.png)
+![HappyBirthday](https://aniruddhkotte.github.io/HappyBirthday.png)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
