@@ -1,29 +1,24 @@
-## Welcome to GitHub Pages
+## Welcome to my first GitHub Page
 
-You can use the [editor on GitHub](https://github.com/aniruddhkotte/aniruddhkotte.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Here I'm gonna write all about my projects done during the Android Basics course taken from Udacity - Google Scholarship Program.
+The course was started on Feb 14th 2018 and went on for 3 months upto May 14th 2018.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+So, here is the list of my apps:
 
-### Markdown
+### Happy Birthday
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This is the very first app I have created during he course. It's just a simple Birthday Card.
 
 ```markdown
-Syntax highlighted code block
+Topics I have learnt:
 
-# Header 1
-## Header 2
-### Header 3
+- Basic android app structure
+- How the views and layouts work
+- ImageView
+- TextView
+_Here, let's take a look at how finally the app looked like._
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+![HappyBirthday](aniruddhkotte.github.io/HappyBirthday.png)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
